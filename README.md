@@ -11,11 +11,8 @@ hosts on Cloud, BaaS, and Virtual or Dedicated Server
 
     It is a host on a host server. It seems a little bit like cloud, and it is building by ISP instead of builting on yourself. 
 
-* BaaS
 
-   In 2016~2018, the DBaaS changed its name as BaaS since a big improvement in Cloud.
-
-* Cloud
+* Cloud & BaaS
 
   It is like the Vitual Server technically, but billing is different from them, virtual charge you monthly, and Cloud bill you in hours.
   
