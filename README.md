@@ -24,14 +24,6 @@ hosts on Cloud, BaaS, and Virtual or Dedicated Server
 
   There are db cloud focus on DB install is offered. It is costly than Cloud Server. However this well-take-care service by sys admin is replaced by Cloud Service Porvider in 24/7 when disk speed problems is issuing.
 
-
-
-
-
-
-
-
-
-
+   Its downside is the DBaaS version is always in patching, so client needs to install many extensions.
 
 
