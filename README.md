@@ -20,6 +20,8 @@ hosts on Cloud, BaaS, and Virtual or Dedicated Server
   It is like the Vitual Server technically, but billing is different from them, virtual charge you monthly, and Cloud bill you in hours.
   
   As you would with a virtual dedicated server, you can install anything you want on it, manage permissions, remote into it, and sometimes add more disks or disk space, which is called Cloud Storage.
+  
+  Thus, you can add on, remove or scale up server at demand.
 
 
 
