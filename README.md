@@ -13,6 +13,8 @@ hosts on Cloud, BaaS, and Virtual or Dedicated Server
 
 * BaaS
 
+   In 2016~2018, the DBaaS changed its name as BaaS since a big improvement in Cloud.
+
 * Cloud
 
 
