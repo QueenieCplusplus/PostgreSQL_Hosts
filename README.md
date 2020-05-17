@@ -17,6 +17,8 @@ hosts on Cloud, BaaS, and Virtual or Dedicated Server
 
 * Cloud
 
+  It is like the Vitual Server, but billing is different from them, virtual charge you monthly, and Cloud bill you in hours.
+
 
 
 
